@@ -1,5 +1,5 @@
 <?php
-header('Location: yipster://yipster.com');
+header('Location: yipster://yipster');
 exit;
 ?>
 
